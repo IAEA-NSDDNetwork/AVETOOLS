@@ -1,0 +1,57 @@
+198Au T1/2 data from 2011Ch22 J. Chen et al., Appl. Radiat. Isot. 69, 1064 (2011)
+T1/2[days]
+# User comments can be inserted with a line starting with "#"
+# Make sure data entry LABELs have no embedded space character!
+# Data points with no uncertainties are excluded
+#Amaldi_etal.(1935)                2.7   
+#McMillan_etal.(1937)              2.7
+#Pool_etal.(1937)                  2.5
+#Sherr_etal.(1941)                 2.7
+Diemer_Groendijk(1946)             2.73     2
+#Seren_etal.(1947)                 2.7
+#Saxon_(1948)                      2.66     1
+Saxon_Heller(1949)                 2.69     2
+#Steffan_etal.(1949)               2.7
+Cavanagh_etal.(1951)               2.66     1
+Sinclair_Holloway(1951)            2.73     1
+Silver_(1951)                      2.69     1
+Lockett_Thomas(1953)               2.697    3
+Bell_Yaffe(1954)                   2.699    3
+Tobailem_(1955b)                   2.686    5
+#Tobailem_(1955a)                  2.686    5
+Johansson_(1956)                   2.697    5
+Sastre_Price(1956)                 2.694    6
+Keene_(1958)                       2.704    4
+Robert_(1960)                      2.699    4
+Starodubtsev_etal.(1963)           2.687    5
+Anspach_etal.(1965)                2.694    4
+Goodier_(1968)                     2.695    7
+Lagoutine_etal.(1968)              2.697    5
+Reynolds_etal.(1968)               2.693    5
+Vuorinen_Kaloinen(1969)            2.695    2
+Cabell_Wilkins(1969)               2.6946   10
+CostaPaivaandMartinho(1970)        2.696    4
+Debertin_(1971)                    2.693    3
+Hoppes_etal.(1982)                 2.695    2
+Rutledge_etal.(1982)               2.6935   4
+Abzouzi_etal.(1990)                2.6966   7
+# Unterweger`s 1992 paper superseded  
+#Unterweger_etal.(1992)            2.69517  21
+Mignonsin_(1994)                   2.6837   50
+Unterweger_Lindstrom(2004)         2.69573  30
+Lindstrom_etal.(2005)              2.6924   11
+Novkovic_etal.(2006)               2.6947   6
+Goodwin_etal.(2007)                2.6949   8
+Spillane_etal.(2007)               2.706    19
+Kumar_etal.(2008)                  2.6971   20
+Ruprecht_etal.(2008)               2.6939   4
+Fortak_etal.(2010)                 2.684    4
+Goodwin_etal.(2010)                2.6948   9
+#Lindstrom_etal.(2010)             2.6910   4
+# second data set 
+*NEW
+59Co 1099.245 CC 
+         ECC
+ 1952ME53 1.94E-4 7 
+ 1953HI02 1.84E-4 27
+ 1964CO34 1.36E-4 10

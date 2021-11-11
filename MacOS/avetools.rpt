@@ -1,0 +1,650 @@
+ Title: 198Au T1/2 data from 2011Ch22 J. Chen et al., Appl. Radiat. Isot. 69, 1064 (2011)
+ --------------------------------------------------------------------------------
+ (a) Limitation of Relative Statistical Weight (LWM)
+ 
+ T1/2[days]        RelWeight(%)  Chi**2/N-1            Reference
+ +2.73 (2)                 0.00    9.41E-02            Diemer_Groendijk(1946)
+ ***** Outlier(3*Sigma)    Outlier(Chauvenet`s) *****
+ +2.69 (2)                 0.00    1.71E-03            Saxon_Heller(1949)
+ +2.66 (1)                 0.02    3.66E-01            Cavanagh_etal.(1951)
+ ***** Outlier(3*Sigma)    Outlier(Chauvenet`s) *****
+ +2.73 (1)                 0.02    3.76E-01            Sinclair_Holloway(1951)
+ ***** Outlier(3*Sigma)    Outlier(Chauvenet`s) *****
+ +2.69 (1)                 0.02    6.85E-03            Silver_(1951)
+ +2.697 (3)                0.32    1.70E-02            Lockett_Thomas(1953)
+ +2.699 (3)                0.32    6.07E-02            Bell_Yaffe(1954)
+ +2.686 (5)                0.11    9.29E-02            Tobailem_(1955b)
+ +2.697 (5)                0.11    6.12E-03            Johansson_(1956)
+ +2.694 (6)                0.08    4.77E-04            Sastre_Price(1956)
+ +2.704 (4)                0.18    1.62E-01            Keene_(1958)
+ +2.699 (4)                0.18    3.42E-02            Robert_(1960)
+ +2.687 (5)                0.11    7.29E-02            Starodubtsev_etal.(1963)
+ +2.694 (4)                0.18    1.07E-03            Anspach_etal.(1965)
+ +2.695 (7)                0.05    3.77E-05            Goodier_(1968)
+ +2.697 (5)                0.11    6.12E-03            Lagoutine_etal.(1968)
+ +2.693 (5)                0.11    3.72E-03            Reynolds_etal.(1968)
+ +2.695 (2)                0.71    4.62E-04            Vuorinen_Kaloinen(1969)
+ +2.6946 (10)              2.87    7.10E-04            Cabell_Wilkins(1969)
+ +2.696 (4)                0.18    2.94E-03            CostaPaivaandMartinho(1970)
+ +2.693 (3)                0.32    1.03E-02            Debertin_(1971)
+ +2.695 (2)                0.71    4.62E-04            Hoppes_etal.(1982)
+ +2.6935 (4)              17.97    2.97E-01            Rutledge_etal.(1982)
+ +2.6966 (7)               5.86    2.11E-01            Abzouzi_etal.(1990)
+ +2.6837 (50)              0.11    1.48E-01            Mignonsin_(1994)
+ +2.69573 (30)      MIN   31.95    3.21E-01            Unterweger_Lindstrom(2004)
+ +2.6924 (11)              2.37    1.39E-01            Lindstrom_etal.(2005)
+ +2.6947 (6)               7.98    2.37E-04            Novkovic_etal.(2006)
+ +2.6949 (8)               4.49    1.02E-03            Goodwin_etal.(2007)
+ +2.706 (19)               0.00    1.06E-02            Spillane_etal.(2007)
+ +2.6971 (20)              0.71    4.17E-02            Kumar_etal.(2008)
+ +2.6939 (4)              17.97    1.38E-01            Ruprecht_etal.(2008)
+ +2.684 (4)                0.18    2.19E-01            Fortak_etal.(2010)
+ +2.6948 (9)               3.55    8.26E-05            Goodwin_etal.(2010)
+ 
+ LWM - Number of Input Values:                          34
+ LWM - Chi**2/N-1:                                       2.84
+ LWM - Chi**2/N-1(critical, @99% confidence):            1.66
+ LWM - Chi**2/N-1(critical, @99% confidence):            1.66
+ LWM - Data rejection parameters for deviation from weighted average.
+ ***** LWM - Outlier, 3*Sigma:  3.460E-02
+ ***** LWM - Outlier, Chauvenet`s PS*Sigma:  2.854E-02
+ UWM - Unweighted Mean:                                +2.69538 (198)
+ WM  - Weighted Mean:                                  +2.694753 (170) [Internal Uncertainty]
+ WM  - Weighted Mean:                                  +2.69475 (29)   [External Uncertainty]
+ 
+ ------------------ Second pass of LWM ------------------
+ 
+ T1/2[days]        RelWeight(%)  Chi**2/N-1            Reference
+ +2.73 (2)                 0.00    9.41E-02            Diemer_Groendijk(1946)
+ ***** Outlier(3*Sigma)    Outlier(Chauvenet`s)
+ +2.69 (2)                 0.00    1.71E-03            Saxon_Heller(1949)
+ +2.66 (1)                 0.02    3.66E-01            Cavanagh_etal.(1951)
+ ***** Outlier(3*Sigma)    Outlier(Chauvenet`s)
+ +2.73 (1)                 0.02    3.76E-01            Sinclair_Holloway(1951)
+ ***** Outlier(3*Sigma)    Outlier(Chauvenet`s)
+ +2.69 (1)                 0.02    6.85E-03            Silver_(1951)
+ +2.697 (3)                0.32    1.70E-02            Lockett_Thomas(1953)
+ +2.699 (3)                0.32    6.07E-02            Bell_Yaffe(1954)
+ +2.686 (5)                0.11    9.29E-02            Tobailem_(1955b)
+ +2.697 (5)                0.11    6.12E-03            Johansson_(1956)
+ +2.694 (6)                0.08    4.77E-04            Sastre_Price(1956)
+ +2.704 (4)                0.18    1.62E-01            Keene_(1958)
+ +2.699 (4)                0.18    3.42E-02            Robert_(1960)
+ +2.687 (5)                0.11    7.29E-02            Starodubtsev_etal.(1963)
+ +2.694 (4)                0.18    1.07E-03            Anspach_etal.(1965)
+ +2.695 (7)                0.05    3.77E-05            Goodier_(1968)
+ +2.697 (5)                0.11    6.12E-03            Lagoutine_etal.(1968)
+ +2.693 (5)                0.11    3.72E-03            Reynolds_etal.(1968)
+ +2.695 (2)                0.71    4.62E-04            Vuorinen_Kaloinen(1969)
+ +2.6946 (10)              2.87    7.10E-04            Cabell_Wilkins(1969)
+ +2.696 (4)                0.18    2.94E-03            CostaPaivaandMartinho(1970)
+ +2.693 (3)                0.32    1.03E-02            Debertin_(1971)
+ +2.695 (2)                0.71    4.62E-04            Hoppes_etal.(1982)
+ +2.6935 (4)              17.97    2.97E-01            Rutledge_etal.(1982)
+ +2.6966 (7)               5.86    2.11E-01            Abzouzi_etal.(1990)
+ +2.6837 (50)              0.11    1.48E-01            Mignonsin_(1994)
+ +2.69573 (30)            31.95    3.21E-01            Unterweger_Lindstrom(2004)
+ +2.6924 (11)              2.37    1.39E-01            Lindstrom_etal.(2005)
+ +2.6947 (6)               7.98    2.37E-04            Novkovic_etal.(2006)
+ +2.6949 (8)               4.49    1.02E-03            Goodwin_etal.(2007)
+ +2.706 (19)               0.00    1.06E-02            Spillane_etal.(2007)
+ +2.6971 (20)              0.71    4.17E-02            Kumar_etal.(2008)
+ +2.6939 (4)              17.97    1.38E-01            Ruprecht_etal.(2008)
+ +2.684 (4)                0.18    2.19E-01            Fortak_etal.(2010)
+ +2.6948 (9)               3.55    8.26E-05            Goodwin_etal.(2010)
+ 
+ LWM - Number of Input Values:                          34
+ LWM - Final Chi**2/N-1:                                 2.84
+ LWM - Chi**2/N-1(critical, @99% confidence):            1.66
+ LWM - Data rejection parameters for deviation from weighted average.
+ LWM - Outlier, 3*Sigma:                                3.460E-02
+ LWM - Number of Input Values MARKED as OUTLIER:
+ LWM - Outlier, 3*Sigma:                                  6
+ LWM - Outlier, Chauvenet`s PS*Sigma:                   2.854E-02
+ LWM - Number of Input Values MARKED as OUTLIER:
+ LWM - Outlier, Chauvenet`s PS*Sigma:                     6
+ LWM - Number of Input Values MARKED as OUTLIER(both):
+ LWM - Outlier, Chauvenet`s PS*Sigma:                     6
+ UWM - Unweighted Mean:                                +2.69538 (198)
+ WM  - Weighted Mean:                                  +2.694753 (170) [Internal Uncertainty]
+ WM  - Weighted Mean:                                  +2.69475 (29)   [External Uncertainty]
+ LWM - Lim. of Rel. Stat. Weight:                      +2.69475 (98)
+ LWM - Minimum Input Uncertainty:  3.0000E-04
+ LWM - has used WEIGHTED average and expanded the uncertainty so range
+ LWM - includes the most precise value of: +2.69573 (30)  Unterweger_Lindstrom(2004)
+ --------------------------------------------------------------------------------
+ (b) Normalised Residual Method (NRM)
+ 
+ T1/2[days]        NormalisedResiduals                 Reference
+ +2.73 (2)                1.762                        Diemer_Groendijk(1946)
+ +2.69 (2)               -0.238                        Saxon_Heller(1949)
+ +2.66 (1)               -3.476                        Cavanagh_etal.(1951)
+ +2.73 (1)                3.525                        Sinclair_Holloway(1951)
+ +2.69 (1)               -0.475                        Silver_(1951)
+ +2.697 (3)               0.750                        Lockett_Thomas(1953)
+ +2.699 (3)               1.418                        Bell_Yaffe(1954)
+ +2.686 (5)              -1.752                        Tobailem_(1955b)
+ +2.697 (5)               0.450                        Johansson_(1956)
+ +2.694 (6)              -0.126                        Sastre_Price(1956)
+ +2.704 (4)               2.314                        Keene_(1958)
+ +2.699 (4)               1.063                        Robert_(1960)
+ +2.687 (5)              -1.551                        Starodubtsev_etal.(1963)
+ +2.694 (4)              -0.188                        Anspach_etal.(1965)
+ +2.695 (7)               0.035                        Goodier_(1968)
+ +2.697 (5)               0.450                        Lagoutine_etal.(1968)
+ +2.693 (5)              -0.351                        Reynolds_etal.(1968)
+ +2.695 (2)               0.124                        Vuorinen_Kaloinen(1969)
+ +2.6946 (10)            -0.155                        Cabell_Wilkins(1969)
+ +2.696 (4)               0.312                        CostaPaivaandMartinho(1970)
+ +2.693 (3)              -0.585                        Debertin_(1971)
+ +2.695 (2)               0.124                        Hoppes_etal.(1982)
+ +2.6935 (4)             -3.459                        Rutledge_etal.(1982)
+ +2.6966 (7)              2.720                        Abzouzi_etal.(1990)
+ +2.6837 (50)            -2.212                        Mignonsin_(1994)
+ +2.69573 (30)            3.948                        Unterweger_Lindstrom(2004)
+ +2.6924 (11)            -2.165                        Lindstrom_etal.(2005)
+ +2.6947 (6)             -0.092                        Novkovic_etal.(2006)
+ +2.6949 (8)              0.188                        Goodwin_etal.(2007)
+ +2.706 (19)              0.592                        Spillane_etal.(2007)
+ +2.6971 (20)             1.178                        Kumar_etal.(2008)
+ +2.6939 (4)             -2.355                        Ruprecht_etal.(2008)
+ +2.684 (4)              -2.691                        Fortak_etal.(2010)
+ +2.6948 (9)              0.053                        Goodwin_etal.(2010)
+ 
+ NRM - Number of Input Values:                          34                                                                          
+ NRM - First Chi**2/N-1:                                 2.84
+ NRM - Chi**2/N-1(critical @95% confidence):             1.44
+ NRM - Critical value of Normalised Residuals:           2.991
+ 
+ Iterations converged after:    10 iterations
+ 
+ T1/2[days]        NormalisedResiduals                 Reference
+ +2.73 (2)                1.773                        Diemer_Groendijk(1946)
+ +2.69 (2)               -0.228                        Saxon_Heller(1949)
+ +2.660 (12)             -2.974                        Cavanagh_etal.(1951)
+ +2.730 (12)              2.991                        Sinclair_Holloway(1951)
+ +2.69 (1)               -0.455                        Silver_(1951)
+ +2.697 (3)               0.818                        Lockett_Thomas(1953)
+ +2.699 (3)               1.486                        Bell_Yaffe(1954)
+ +2.686 (5)              -1.711                        Tobailem_(1955b)
+ +2.697 (5)               0.490                        Johansson_(1956)
+ +2.694 (6)              -0.092                        Sastre_Price(1956)
+ +2.704 (4)               2.365                        Keene_(1958)
+ +2.699 (4)               1.113                        Robert_(1960)
+ +2.687 (5)              -1.511                        Starodubtsev_etal.(1963)
+ +2.694 (4)              -0.138                        Anspach_etal.(1965)
+ +2.695 (7)               0.064                        Goodier_(1968)
+ +2.697 (5)               0.490                        Lagoutine_etal.(1968)
+ +2.693 (5)              -0.310                        Reynolds_etal.(1968)
+ +2.695 (2)               0.225                        Vuorinen_Kaloinen(1969)
+ +2.6946 (10)             0.050                        Cabell_Wilkins(1969)
+ +2.696 (4)               0.363                        CostaPaivaandMartinho(1970)
+ +2.693 (3)              -0.518                        Debertin_(1971)
+ +2.695 (2)               0.225                        Hoppes_etal.(1982)
+ +2.6935 (4)             -2.969                        Rutledge_etal.(1982)
+ +2.6966 (7)              2.991 *Adjusted              Abzouzi_etal.(1990)
+ +2.6837 (50)            -2.172                        Mignonsin_(1994)
+ +2.6957 (5)              2.991 *Adjusted              Unterweger_Lindstrom(2004)
+ +2.6924 (11)            -1.984                        Lindstrom_etal.(2005)
+ +2.6947 (6)              0.261                        Novkovic_etal.(2006)
+ +2.6949 (8)              0.448                        Goodwin_etal.(2007)
+ +2.706 (19)              0.603                        Spillane_etal.(2007)
+ +2.6971 (20)             1.280                        Kumar_etal.(2008)
+ +2.6939 (4)             -1.839                        Ruprecht_etal.(2008)
+ +2.684 (4)              -2.641                        Fortak_etal.(2010)
+ +2.6948 (9)              0.283                        Goodwin_etal.(2010)
+ 
+ NRM - Normalised Residual Method 
+ NRM - Uncertainties are multiplied by Birge ratio
+ NRM - Number of Input Values:                          34                                                                          
+ NRM - Mean:                                           +2.69455 (29)
+ NRM - Final Chi**2/N-1:                                 2.43
+ NRM - Chi**2/N-1(critical @95% confidence):             1.44
+ --------------------------------------------------------------------------------
+ (c) Rajeval Technique (RT)
+ 
+ First stage: Population Test ------------------------------
+ RT  - Number of Input Values:                34
+ RT  - Critical Value (CV) = 3*1.96
+ RT  - Values with YY(I) > CV=5.88  are marked as Rejected
+ RT  - Discrepant data has to be removed manually
+ 
+ T1/2[days]             |YY(I)|                        Reference
+ +2.73 (2)                1.835                        Diemer_Groendijk(1946)
+ +2.69 (2)                0.284                        Saxon_Heller(1949)
+ +2.66 (1)                3.593                        Cavanagh_etal.(1951)
+ +2.73 (1)                3.645                        Sinclair_Holloway(1951)
+ +2.69 (1)                0.560                        Silver_(1951)
+ +2.697 (3)               0.480                        Lockett_Thomas(1953)
+ +2.699 (3)               1.051                        Bell_Yaffe(1954)
+ +2.686 (5)               1.792                        Tobailem_(1955b)
+ +2.697 (5)               0.326                        Johansson_(1956)
+ +2.694 (6)               0.231                        Sastre_Price(1956)
+ +2.704 (4)               1.982                        Keene_(1958)
+ +2.699 (4)               0.852                        Robert_(1960)
+ +2.687 (5)               1.601                        Starodubtsev_etal.(1963)
+ +2.694 (4)               0.325                        Anspach_etal.(1965)
+ +2.695 (7)               0.057                        Goodier_(1968)
+ +2.697 (5)               0.326                        Lagoutine_etal.(1968)
+ +2.693 (5)               0.466                        Reynolds_etal.(1968)
+ +2.695 (2)               0.141                        Vuorinen_Kaloinen(1969)
+ +2.6946 (10)             0.354                        Cabell_Wilkins(1969)
+ +2.696 (4)               0.142                        CostaPaivaandMartinho(1970)
+ +2.693 (3)               0.691                        Debertin_(1971)
+ +2.695 (2)               0.141                        Hoppes_etal.(1982)
+ +2.6935 (4)              0.933                        Rutledge_etal.(1982)
+ +2.6966 (7)              0.583                        Abzouzi_etal.(1990)
+ +2.6837 (50)             2.234                        Mignonsin_(1994)
+ +2.69573 (30)            0.175                        Unterweger_Lindstrom(2004)
+ +2.6924 (11)             1.327                        Lindstrom_etal.(2005)
+ +2.6947 (6)              0.330                        Novkovic_etal.(2006)
+ +2.6949 (8)              0.226                        Goodwin_etal.(2007)
+ +2.706 (19)              0.573                        Spillane_etal.(2007)
+ +2.6971 (20)             0.621                        Kumar_etal.(2008)
+ +2.6939 (4)              0.734                        Ruprecht_etal.(2008)
+ +2.684 (4)               2.620                        Fortak_etal.(2010)
+ +2.6948 (9)              0.268                        Goodwin_etal.(2010)
+ 
+ RT  - Number of Input Values adopted:        34
+ 
+ Second stage: Testing and Rejecting if YY(L) > CV=5.88 ----
+ Automatic rejection of discrepant data DISABLED
+ 
+ T1/2[days]             |YY(I)|                        Reference
+ +2.73 (2)                1.835                        Diemer_Groendijk(1946)
+ +2.69 (2)                0.284                        Saxon_Heller(1949)
+ +2.66 (1)                3.593                        Cavanagh_etal.(1951)
+ +2.73 (1)                3.645                        Sinclair_Holloway(1951)
+ +2.69 (1)                0.560                        Silver_(1951)
+ +2.697 (3)               0.480                        Lockett_Thomas(1953)
+ +2.699 (3)               1.051                        Bell_Yaffe(1954)
+ +2.686 (5)               1.792                        Tobailem_(1955b)
+ +2.697 (5)               0.326                        Johansson_(1956)
+ +2.694 (6)               0.231                        Sastre_Price(1956)
+ +2.704 (4)               1.982                        Keene_(1958)
+ +2.699 (4)               0.852                        Robert_(1960)
+ +2.687 (5)               1.601                        Starodubtsev_etal.(1963)
+ +2.694 (4)               0.325                        Anspach_etal.(1965)
+ +2.695 (7)               0.057                        Goodier_(1968)
+ +2.697 (5)               0.326                        Lagoutine_etal.(1968)
+ +2.693 (5)               0.466                        Reynolds_etal.(1968)
+ +2.695 (2)               0.141                        Vuorinen_Kaloinen(1969)
+ +2.6946 (10)             0.354                        Cabell_Wilkins(1969)
+ +2.696 (4)               0.142                        CostaPaivaandMartinho(1970)
+ +2.693 (3)               0.691                        Debertin_(1971)
+ +2.695 (2)               0.141                        Hoppes_etal.(1982)
+ +2.6935 (4)              0.933                        Rutledge_etal.(1982)
+ +2.6966 (7)              0.583                        Abzouzi_etal.(1990)
+ +2.6837 (50)             2.234                        Mignonsin_(1994)
+ +2.69573 (30)            0.175                        Unterweger_Lindstrom(2004)
+ +2.6924 (11)             1.327                        Lindstrom_etal.(2005)
+ +2.6947 (6)              0.330                        Novkovic_etal.(2006)
+ +2.6949 (8)              0.226                        Goodwin_etal.(2007)
+ +2.706 (19)              0.573                        Spillane_etal.(2007)
+ +2.6971 (20)             0.621                        Kumar_etal.(2008)
+ +2.6939 (4)              0.734                        Ruprecht_etal.(2008)
+ +2.684 (4)               2.620                        Fortak_etal.(2010)
+ +2.6948 (9)              0.268                        Goodwin_etal.(2010)
+ 
+ RT  - Initial Central Deviate (CD) Limit:     0.490
+ 
+ T1/2[days]        Central Deviation                  Reference
+ +2.73 (2)                0.461                        Diemer_Groendijk(1946)
+ +2.69 (2)                0.094                        Saxon_Heller(1949)
+ +2.66 (1)                0.500                        Cavanagh_etal.(1951)
+ +2.73 (1)                0.500                        Sinclair_Holloway(1951)
+ +2.69 (1)                0.183                        Silver_(1951)
+ +2.697 (3)               0.273                        Lockett_Thomas(1953)
+ +2.699 (3)               0.422                        Bell_Yaffe(1954)
+ +2.686 (5)               0.460                        Tobailem_(1955b)
+ +2.697 (5)               0.174                        Johansson_(1956)
+ +2.694 (6)               0.050                        Sastre_Price(1956)
+ +2.704 (4)               0.490                        Keene_(1958)
+ +2.699 (4)               0.356                        Robert_(1960)
+ +2.687 (5)               0.440                        Starodubtsev_etal.(1963)
+ +2.694 (4)               0.075                        Anspach_etal.(1965)
+ +2.695 (7)               0.014                        Goodier_(1968)
+ +2.697 (5)               0.174                        Lagoutine_etal.(1968)
+ +2.693 (5)               0.137                        Reynolds_etal.(1968)
+ +2.695 (2)               0.049                        Vuorinen_Kaloinen(1969)
+ +2.6946 (10)             0.062                        Cabell_Wilkins(1969)
+ +2.696 (4)               0.122                        CostaPaivaandMartinho(1970)
+ +2.693 (3)               0.221                        Debertin_(1971)
+ +2.695 (2)               0.049                        Hoppes_etal.(1982)
+ +2.6935 (4)              0.500                        Rutledge_etal.(1982)
+ +2.6966 (7)              0.497                        Abzouzi_etal.(1990)
+ +2.6837 (50)             0.487                        Mignonsin_(1994)
+ +2.69573 (30)            0.500                        Unterweger_Lindstrom(2004)
+ +2.6924 (11)             0.485                        Lindstrom_etal.(2005)
+ +2.6947 (6)              0.037                        Novkovic_etal.(2006)
+ +2.6949 (8)              0.075                        Goodwin_etal.(2007)
+ +2.706 (19)              0.223                        Spillane_etal.(2007)
+ +2.6971 (20)             0.381                        Kumar_etal.(2008)
+ +2.6939 (4)              0.491                        Ruprecht_etal.(2008)
+ +2.684 (4)               0.496                        Fortak_etal.(2010)
+ +2.6948 (9)              0.021                        Goodwin_etal.(2010)
+ 
+ 
+ Final Stage: Central Deviate, CD:   0.490 and adjustments
+ 
+ T1/2[days]        Central Deviation                  Reference
+ +2.73 (2)                0.463                        Diemer_Groendijk(1946)
+ +2.69 (2)                0.087                        Saxon_Heller(1949)
+ +2.660 (15)              0.490   *Adjusted            Cavanagh_etal.(1951)
+ +2.730 (16)              0.490   *Adjusted            Sinclair_Holloway(1951)
+ +2.69 (1)                0.169                        Silver_(1951)
+ +2.697 (3)               0.309                        Lockett_Thomas(1953)
+ +2.699 (3)               0.439                        Bell_Yaffe(1954)
+ +2.686 (5)               0.453                        Tobailem_(1955b)
+ +2.697 (5)               0.200                        Johansson_(1956)
+ +2.694 (6)               0.025                        Sastre_Price(1956)
+ +2.704 (5)               0.490   *Adjusted            Keene_(1958)
+ +2.699 (4)               0.376                        Robert_(1960)
+ +2.687 (5)               0.430                        Starodubtsev_etal.(1963)
+ +2.694 (4)               0.038                        Anspach_etal.(1965)
+ +2.695 (7)               0.035                        Goodier_(1968)
+ +2.697 (5)               0.200                        Lagoutine_etal.(1968)
+ +2.693 (5)               0.109                        Reynolds_etal.(1968)
+ +2.695 (2)               0.122                        Vuorinen_Kaloinen(1969)
+ +2.6946 (10)             0.088                        Cabell_Wilkins(1969)
+ +2.696 (4)               0.157                        CostaPaivaandMartinho(1970)
+ +2.693 (3)               0.178                        Debertin_(1971)
+ +2.695 (2)               0.122                        Hoppes_etal.(1982)
+ +2.6935 (5)              0.487   *Adjusted            Rutledge_etal.(1982)
+ +2.6966 (10)             0.489   *Adjusted            Abzouzi_etal.(1990)
+ +2.6837 (50)             0.484                        Mignonsin_(1994)
+ +2.6957 (7)              0.487   *Adjusted            Unterweger_Lindstrom(2004)
+ +2.6924 (11)             0.467                        Lindstrom_etal.(2005)
+ +2.6947 (6)              0.213                        Novkovic_etal.(2006)
+ +2.6949 (8)              0.248                        Goodwin_etal.(2007)
+ +2.706 (19)              0.230                        Spillane_etal.(2007)
+ +2.6971 (20)             0.414                        Kumar_etal.(2008)
+ +2.6939 (4)              0.420                        Ruprecht_etal.(2008)
+ +2.684 (5)               0.490   *Adjusted            Fortak_etal.(2010)
+ +2.6948 (9)              0.183                        Goodwin_etal.(2010)
+ 
+ RT  - Number of Input Values adopted:                  34
+ RT  - Mean:                                           +2.694384 (205)
+ RT  - Final Chi**2/N-1:                                 1.85
+ --------------------------------------------------------------------------------
+ (d) Bootstrap method (BS)
+ 
+ T1/2[days]                                           Reference
+ +2.73 (2)                                             Diemer_Groendijk(1946)
+ +2.69 (2)                                             Saxon_Heller(1949)
+ +2.66 (1)                                             Cavanagh_etal.(1951)
+ +2.73 (1)                                             Sinclair_Holloway(1951)
+ +2.69 (1)                                             Silver_(1951)
+ +2.697 (3)                                            Lockett_Thomas(1953)
+ +2.699 (3)                                            Bell_Yaffe(1954)
+ +2.686 (5)                                            Tobailem_(1955b)
+ +2.697 (5)                                            Johansson_(1956)
+ +2.694 (6)                                            Sastre_Price(1956)
+ +2.704 (4)                                            Keene_(1958)
+ +2.699 (4)                                            Robert_(1960)
+ +2.687 (5)                                            Starodubtsev_etal.(1963)
+ +2.694 (4)                                            Anspach_etal.(1965)
+ +2.695 (7)                                            Goodier_(1968)
+ +2.697 (5)                                            Lagoutine_etal.(1968)
+ +2.693 (5)                                            Reynolds_etal.(1968)
+ +2.695 (2)                                            Vuorinen_Kaloinen(1969)
+ +2.6946 (10)                                          Cabell_Wilkins(1969)
+ +2.696 (4)                                            CostaPaivaandMartinho(1970)
+ +2.693 (3)                                            Debertin_(1971)
+ +2.695 (2)                                            Hoppes_etal.(1982)
+ +2.6935 (4)                                           Rutledge_etal.(1982)
+ +2.6966 (7)                                           Abzouzi_etal.(1990)
+ +2.6837 (50)                                          Mignonsin_(1994)
+ +2.69573 (30)                                         Unterweger_Lindstrom(2004)
+ +2.6924 (11)                                          Lindstrom_etal.(2005)
+ +2.6947 (6)                                           Novkovic_etal.(2006)
+ +2.6949 (8)                                           Goodwin_etal.(2007)
+ +2.706 (19)                                           Spillane_etal.(2007)
+ +2.6971 (20)                                          Kumar_etal.(2008)
+ +2.6939 (4)                                           Ruprecht_etal.(2008)
+ +2.684 (4)                                            Fortak_etal.(2010)
+ +2.6948 (9)                                           Goodwin_etal.(2010)
+ 
+ BS  - Number of Input Values:                          34
+ BS  - Number of random samples with replacement:     2000
+ BS  - Mean:                                           +2.69480 (52)
+ BS  - Final Chi**2/N-1:                                 2.85
+ --------------------------------------------------------------------------------
+ (e) Mandel-Paule approach (MP)
+ 
+ 
+ T1/2[days]                                           Reference
+ +2.73 (2)                                             Diemer_Groendijk(1946)
+ +2.69 (2)                                             Saxon_Heller(1949)
+ +2.66 (1)                                             Cavanagh_etal.(1951)
+ +2.73 (1)                                             Sinclair_Holloway(1951)
+ +2.69 (1)                                             Silver_(1951)
+ +2.697 (3)                                            Lockett_Thomas(1953)
+ +2.699 (3)                                            Bell_Yaffe(1954)
+ +2.686 (5)                                            Tobailem_(1955b)
+ +2.697 (5)                                            Johansson_(1956)
+ +2.694 (6)                                            Sastre_Price(1956)
+ +2.704 (4)                                            Keene_(1958)
+ +2.699 (4)                                            Robert_(1960)
+ +2.687 (5)                                            Starodubtsev_etal.(1963)
+ +2.694 (4)                                            Anspach_etal.(1965)
+ +2.695 (7)                                            Goodier_(1968)
+ +2.697 (5)                                            Lagoutine_etal.(1968)
+ +2.693 (5)                                            Reynolds_etal.(1968)
+ +2.695 (2)                                            Vuorinen_Kaloinen(1969)
+ +2.6946 (10)                                          Cabell_Wilkins(1969)
+ +2.696 (4)                                            CostaPaivaandMartinho(1970)
+ +2.693 (3)                                            Debertin_(1971)
+ +2.695 (2)                                            Hoppes_etal.(1982)
+ +2.6935 (4)                                           Rutledge_etal.(1982)
+ +2.6966 (7)                                           Abzouzi_etal.(1990)
+ +2.6837 (50)                                          Mignonsin_(1994)
+ +2.69573 (30)                                         Unterweger_Lindstrom(2004)
+ +2.6924 (11)                                          Lindstrom_etal.(2005)
+ +2.6947 (6)                                           Novkovic_etal.(2006)
+ +2.6949 (8)                                           Goodwin_etal.(2007)
+ +2.706 (19)                                           Spillane_etal.(2007)
+ +2.6971 (20)                                          Kumar_etal.(2008)
+ +2.6939 (4)                                           Ruprecht_etal.(2008)
+ +2.684 (4)                                            Fortak_etal.(2010)
+ +2.6948 (9)                                           Goodwin_etal.(2010)
+ 
+ MP  - Number of Input Values:                          34
+ MP  - Mean:                                           +2.6945 (56)
+ MP  - Final Chi**2/N-1:                                 2.90
+ 
+ ************************************ S U M M A R Y *************************************
+ AveTools v3.0 [10-Dec-2014] run on 15-Dec-2014
+ Input File: avetools.in
+ Title: 198Au T1/2 data from 2011Ch22 J. Chen et al., Appl. Radiat. Isot. 69, 1064 (2011)
+ Average of: T1/2[days]
+ 
+ (a) LWM - Limitation of Relative Statistical Weight method
+     LWM - Number of Input Values:                      34
+     UWM - UnWeighted Mean:                            +2.69538 (198)
+     WM  - Weighted Mean:                              +2.694753 (170) [Internal Uncertainty]
+     WM  - Weighted Mean:                              +2.69475 (29)   [External Uncertainty]
+     LWM - Mean:                                       +2.69475 (98)
+     LWM - Final Chi**2/N-1:                             2.84
+     LWM - Chi**2/N-1(critical, @99% confidence):        1.66
+ 
+ (b) NRM - Normalised Residual Method
+     NRM - Number of Input Values:                      34
+     NRM - Uncertainties are multiplied by Birge ratio
+     NRM - Mean:                                       +2.69455 (29)
+     NRM - Final Chi**2/N-1:                             2.43
+     NRM - Chi**2/N-1(critical& @95% confidence):        1.44
+ 
+ (c) RT  - Rajeval Technique
+     RT  - Number of Input Values ADOPTED:              34
+     RT  - Number of Input Values MARKED for REJECTION:  0
+     RT  - Mean:                                       +2.694384 (205)
+     RT  - Final Chi**2/N-1:                             1.85
+ 
+ (d) BS  - Bootstrap method
+     BS  - Number of Input Values:                      34
+     BS  - Number Monte-Carlo samples per Input:         2000
+     BS  - Mean:                                       +2.69480 (52)
+     BS  - Final Chi**2/N-1:                             2.85
+ 
+ (e) MP  - Mandle-Paule Approach
+     MP  - Number of Input Values:                      34
+     MP  - Mean:                                       +2.6945 (56)
+     MP  - Final Chi**2/N-1:                             2.90
+ *****************************************************************************************
+ Title: 59Co 1099.245 CC
+ --------------------------------------------------------------------------------
+ (a) Limitation of Relative Statistical Weight (LWM)
+ 
+ ECC               RelWeight(%)  Chi**2/N-1            Reference
+ +1.94E-4 (7)       MIN*  64.21*   3.56E+00            1952ME53
+ +1.84E-4 (27)             4.31    5.17E-02            1953HI02
+ +1.36E-4 (10)            31.46    7.73E+00            1964CO34
+ 
+ LWM - Number of Input Values:                           3
+ LWM - Chi**2/N-1:                                      11.34
+ LWM - Chi**2/N-1(critical, @99% confidence):            4.61
+ LWM - Chi**2/N-1(critical, @99% confidence):            4.61
+ UWM - Unweighted Mean:                                +0.0001713 (179)
+ WM  - Weighted Mean:                                  +0.0001753 (56) [Internal Uncertainty]
+ WM  - Weighted Mean:                                  +0.0001753 (189)[External Uncertainty]
+ 
+ ------------------ Second pass of LWM ------------------
+ 
+ ECC               RelWeight(%)  Chi**2/N-1            Reference
+ +0.000194 (10)        *  50.00*   3.87E+00            1952ME53
+ +1.84E-4 (27)             6.03    1.78E-01            1953HI02
+ +1.36E-4 (10)            43.96    5.09E+00            1964CO34
+ 
+ LWM - Number of Input Values:                           3
+ LWM - Final Chi**2/N-1:                                 9.14
+ LWM - Chi**2/N-1(critical, @99% confidence):            4.61
+ UWM - Unweighted Mean:                                +0.0001713 (179)
+ WM  - Weighted Mean:                                  +0.0001679 (67) [Internal Uncertainty]
+ WM  - Weighted Mean:                                  +0.0001679 (201)[External Uncertainty]
+ LWM - Lim. of Rel. Stat. Weight:                      +0.000168 (27)
+ LWM - Minimum Input Uncertainty:  7.0000E-06
+ LWM - has used WEIGHTED average and expanded the uncertainty so range
+ LWM - includes the most precise value of: +0.000194 (10)  1952ME53
+ --------------------------------------------------------------------------------
+ (b) Normalised Residual Method (NRM)
+ 
+ ECC               NormalisedResiduals                 Reference
+ +1.94E-4 (7)             4.462                        1952ME53
+ +1.84E-4 (27)            0.329                        1953HI02
+ +1.36E-4 (10)           -4.749                        1964CO34
+ 
+ NRM - Number of Input Values:                           3                                                                          
+ NRM - First Chi**2/N-1:                                11.34
+ NRM - Chi**2/N-1(critical @95% confidence):             3.00
+ NRM - Critical value of Normalised Residuals:           2.140
+ 
+ Iterations converged after:     1 iterations
+ 
+ ECC               NormalisedResiduals                 Reference
+ +0.000194 (23)           1.194                        1952ME53
+ +1.84E-4 (27)            0.468                        1953HI02
+ +0.00014 (3)            -1.728 *Adjusted              1964CO34
+ 
+ NRM - Normalised Residual Method 
+ NRM - The normalised residuals is converged
+ NRM - Number of Input Values:                           3                                                                          
+ NRM  - Mean:                                          0.0001733 (144)
+ NRM - Final Chi**2/N-1:                                 1.53
+ NRM - Chi**2/N-1(critical @95% confidence):             3.00
+ --------------------------------------------------------------------------------
+ (c) Rajeval Technique (RT)
+ 
+ First stage: Population Test ------------------------------
+ RT  - Number of Input Values:                 3
+ RT  - Critical Value (CV) = 3*1.96
+ RT  - Values with YY(I) > CV=5.88  are marked as Rejected
+ RT  - Discrepant data has to be removed manually
+ 
+ ECC                    |YY(I)|                        Reference
+ +1.94E-4 (7)             1.360                        1952ME53
+ +1.84E-4 (27)            0.480                        1953HI02
+ +1.36E-4 (10)            4.740                        1964CO34
+ 
+ RT  - Number of Input Values adopted:         3
+ 
+ Second stage: Testing and Rejecting if YY(L) > CV=5.88 ----
+ Automatic rejection of discrepant data DISABLED
+ 
+ ECC                    |YY(I)|                        Reference
+ +1.94E-4 (7)             1.360                        1952ME53
+ +1.84E-4 (27)            0.480                        1953HI02
+ +1.36E-4 (10)            4.740                        1964CO34
+ 
+ RT  - Initial Central Deviate (CD) Limit:     0.354
+ 
+ ECC               Central Deviation                  Reference
+ +1.94E-4 (7)             0.500                        1952ME53
+ +1.84E-4 (27)            0.129                        1953HI02
+ +1.36E-4 (10)            0.500                        1964CO34
+ 
+ 
+ Final Stage: Central Deviate, CD:   0.354 and adjustments
+ 
+ ECC               Central Deviation                  Reference
+ +1.94E-4 (7)             0.280                        1952ME53
+ +1.84E-4 (27)            0.127                        1953HI02
+ +0.000136 (55)           0.352   *Adjusted            1964CO34
+ 
+ RT  - Number of Input Values adopted:                   3
+ RT  - Mean:                                           +0.0001925 (68)
+ RT  - Final Chi**2/N-1:                                 0.61
+ --------------------------------------------------------------------------------
+ (d) Bootstrap method (BS)
+ 
+ ECC                                                  Reference
+ +1.94E-4 (7)                                          1952ME53
+ +1.84E-4 (27)                                         1953HI02
+ +1.36E-4 (10)                                         1964CO34
+ 
+ BS  - Number of Input Values:                           3
+ BS  - Number of random samples with replacement:     2000
+ BS  - Mean:                                           +0.0001742 (228)
+ BS  - Final Chi**2/N-1:                                11.36
+ --------------------------------------------------------------------------------
+ (e) Mandel-Paule approach (MP)
+ 
+ 
+ ************************************ S U M M A R Y *************************************
+ AveTools v3.0 [10-Dec-2014] run on 15-Dec-2014
+ Input File: avetools.in
+ Title: 59Co 1099.245 CC
+ Average of: ECC
+ 
+ (a) LWM - Limitation of Relative Statistical Weight method
+     LWM - Number of Input Values:                       3
+     UWM - UnWeighted Mean:                            +0.0001713 (179)
+     WM  - Weighted Mean:                              +0.0001679 (67) [Internal Uncertainty]
+     WM  - Weighted Mean:                              +0.0001679 (201)[External Uncertainty]
+     LWM - Mean:                                       +0.000168 (27)
+     LWM - Final Chi**2/N-1:                             9.14
+     LWM - Chi**2/N-1(critical, @99% confidence):        4.61
+ 
+ (b) NRM - Normalised Residual Method
+     NRM - Number of Input Values:                       3
+     NRM - Uncertainties are multiplied by Birge ratio
+     NRM - Mean:                                       +0.0001733 (144)
+     NRM - Final Chi**2/N-1:                             1.53
+     NRM - Chi**2/N-1(critical& @95% confidence):        3.00
+ 
+ (c) RT  - Rajeval Technique
+     RT  - Number of Input Values ADOPTED:               3
+     RT  - Number of Input Values MARKED for REJECTION:  0
+     RT  - Mean:                                       +0.0001925 (68)
+     RT  - Final Chi**2/N-1:                             0.61
+ 
+ (d) BS  - Bootstrap method
+     BS  - Number of Input Values:                       3
+     BS  - Number Monte-Carlo samples per Input:         2000
+     BS  - Mean:                                       +0.0001742 (228)
+     BS  - Final Chi**2/N-1:                            11.36
+ 
+ (e) MP  - Mandle-Paule Approach
+     MP  - Number of Input Values:                       3
+     MP  - <F> Method failed to deliver numerical results
+ *****************************************************************************************
